@@ -553,7 +553,7 @@ img::-moz-selection {
 }
 
 .price li {
-    border-bottom: 1px solid #191b28;
+    
     padding: 20px;
     text-align: center;
 }
